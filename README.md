@@ -8,7 +8,7 @@ Resume screener is a smart, interactive web app that helps candidates compare th
 - 📉 Missing skills
 - 💡 Recommended projects to improve alignment
 
-This project was designed as a **personal job-seeking assistant** to impress ATS systems and interviewers — and now it's open-sourced for others to benefit too!
+This project was designed as a **Evaluation and job-seeking assistant** to impress ATS systems and interviewers — and now it's open-sourced for others to benefit too!
 
 ---
 
