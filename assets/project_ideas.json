@@ -1,0 +1,5252 @@
+[
+  {
+    "project_title": "Cybersecurity Project - Firewall Wireshark",
+    "description": "A Advanced level cybersecurity project focusing on Wireshark, Nmap, firewall.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Wireshark",
+      "Metasploit",
+      "Nmap"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Wireshark",
+      "Nmap",
+      "firewall"
+    ],
+    "resume_match_threshold": 0.4,
+    "jd_keywords_match": [
+      "Wireshark",
+      "firewall"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Classification Eda",
+    "description": "A Advanced level data science project focusing on pandas, EDA, classification.",
+    "domain": "Data Science",
+    "tools": [
+      "scikit-learn",
+      "Seaborn",
+      "Pandas"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "pandas",
+      "EDA",
+      "classification"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "classification",
+      "pandas"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Vulnerability Encryption",
+    "description": "A Beginner level cybersecurity project focusing on vulnerability, hashing, encryption.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Wireshark",
+      "Metasploit",
+      "Nmap"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "vulnerability",
+      "hashing",
+      "encryption"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "encryption",
+      "vulnerability"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Terraform Ansible",
+    "description": "A Intermediate level devops project focusing on Docker, Terraform, Ansible.",
+    "domain": "DevOps",
+    "tools": [
+      "Jenkins",
+      "Kubernetes",
+      "AWS"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Docker",
+      "Terraform",
+      "Ansible"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "Terraform",
+      "Docker"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Redux React",
+    "description": "A Intermediate level frontend development project focusing on UI/UX, Redux, React.",
+    "domain": "Frontend Development",
+    "tools": [
+      "HTML",
+      "Tailwind",
+      "JavaScript"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "UI/UX",
+      "Redux",
+      "React"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "Redux",
+      "React"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Ci/Cd Terraform",
+    "description": "A Advanced level devops project focusing on Docker, CI/CD, Terraform.",
+    "domain": "DevOps",
+    "tools": [
+      "Docker",
+      "AWS",
+      "Jenkins"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Docker",
+      "CI/CD",
+      "Terraform"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "Docker",
+      "CI/CD"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Html Ui/Ux",
+    "description": "A Intermediate level frontend development project focusing on HTML, UI/UX, JavaScript.",
+    "domain": "Frontend Development",
+    "tools": [
+      "React",
+      "HTML",
+      "Tailwind"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "HTML",
+      "UI/UX",
+      "JavaScript"
+    ],
+    "resume_match_threshold": 0.34,
+    "jd_keywords_match": [
+      "UI/UX",
+      "HTML"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Flask Postgresql",
+    "description": "A Beginner level backend development project focusing on CRUD, Flask, PostgreSQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Python",
+      "Django",
+      "MySQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "CRUD",
+      "Flask",
+      "PostgreSQL"
+    ],
+    "resume_match_threshold": 0.46,
+    "jd_keywords_match": [
+      "CRUD",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Html Dom Manipulation",
+    "description": "A Advanced level frontend development project focusing on CSS, DOM manipulation, HTML.",
+    "domain": "Frontend Development",
+    "tools": [
+      "React",
+      "JavaScript",
+      "HTML"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "CSS",
+      "DOM manipulation",
+      "HTML"
+    ],
+    "resume_match_threshold": 0.53,
+    "jd_keywords_match": [
+      "DOM manipulation",
+      "HTML"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Pandas Eda",
+    "description": "A Advanced level data science project focusing on EDA, pandas, matplotlib.",
+    "domain": "Data Science",
+    "tools": [
+      "NLTK",
+      "Pandas",
+      "scikit-learn"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "EDA",
+      "pandas",
+      "matplotlib"
+    ],
+    "resume_match_threshold": 0.52,
+    "jd_keywords_match": [
+      "matplotlib",
+      "EDA"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Scikit-Learn Matplotlib",
+    "description": "A Advanced level data science project focusing on scikit-learn, matplotlib, machine learning.",
+    "domain": "Data Science",
+    "tools": [
+      "Python",
+      "NLTK",
+      "XGBoost"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "scikit-learn",
+      "matplotlib",
+      "machine learning"
+    ],
+    "resume_match_threshold": 0.33,
+    "jd_keywords_match": [
+      "scikit-learn",
+      "matplotlib"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Nlp Eda",
+    "description": "A Advanced level data science project focusing on EDA, NLP, machine learning.",
+    "domain": "Data Science",
+    "tools": [
+      "Python",
+      "XGBoost",
+      "Matplotlib"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "EDA",
+      "NLP",
+      "machine learning"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "machine learning",
+      "NLP"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Matplotlib Machine Learning",
+    "description": "A Intermediate level data science project focusing on matplotlib, machine learning, pandas.",
+    "domain": "Data Science",
+    "tools": [
+      "XGBoost",
+      "scikit-learn",
+      "Pandas"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "matplotlib",
+      "machine learning",
+      "pandas"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "matplotlib",
+      "machine learning"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Postgresql Sql",
+    "description": "A Advanced level backend development project focusing on SQL, Django, PostgreSQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Flask",
+      "Python",
+      "Django"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "SQL",
+      "Django",
+      "PostgreSQL"
+    ],
+    "resume_match_threshold": 0.46,
+    "jd_keywords_match": [
+      "SQL",
+      "Django"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Serverless Load Balancing",
+    "description": "A Advanced level cloud computing project focusing on load balancing, serverless, S3.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "EC2",
+      "GCP",
+      "Lambda"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "load balancing",
+      "serverless",
+      "S3"
+    ],
+    "resume_match_threshold": 0.58,
+    "jd_keywords_match": [
+      "S3",
+      "serverless"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Regression Eda",
+    "description": "A Beginner level data science project focusing on regression, EDA, matplotlib.",
+    "domain": "Data Science",
+    "tools": [
+      "NLTK",
+      "Seaborn",
+      "Python"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "regression",
+      "EDA",
+      "matplotlib"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "regression",
+      "EDA"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Dom Manipulation Javascript",
+    "description": "A Beginner level frontend development project focusing on Redux, DOM manipulation, JavaScript.",
+    "domain": "Frontend Development",
+    "tools": [
+      "CSS",
+      "React",
+      "Bootstrap"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Redux",
+      "DOM manipulation",
+      "JavaScript"
+    ],
+    "resume_match_threshold": 0.44,
+    "jd_keywords_match": [
+      "DOM manipulation",
+      "Redux"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Django Rest",
+    "description": "A Intermediate level backend development project focusing on Django, REST, SQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Python",
+      "Flask",
+      "PostgreSQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Django",
+      "REST",
+      "SQL"
+    ],
+    "resume_match_threshold": 0.53,
+    "jd_keywords_match": [
+      "Django",
+      "SQL"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Wallets Smart Contracts",
+    "description": "A Intermediate level blockchain project focusing on wallets, Solidity, smart contracts.",
+    "domain": "Blockchain",
+    "tools": [
+      "Web3.js",
+      "Ethereum",
+      "Solidity"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "wallets",
+      "Solidity",
+      "smart contracts"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "wallets",
+      "Solidity"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Django Sql",
+    "description": "A Intermediate level backend development project focusing on Django, SQL, PostgreSQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Python",
+      "Flask",
+      "Django"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Django",
+      "SQL",
+      "PostgreSQL"
+    ],
+    "resume_match_threshold": 0.3,
+    "jd_keywords_match": [
+      "PostgreSQL",
+      "Django"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Crypto Dapps",
+    "description": "A Advanced level blockchain project focusing on crypto, Metamask, dApps.",
+    "domain": "Blockchain",
+    "tools": [
+      "Truffle",
+      "Ethereum",
+      "Solidity"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "crypto",
+      "Metamask",
+      "dApps"
+    ],
+    "resume_match_threshold": 0.31,
+    "jd_keywords_match": [
+      "dApps",
+      "crypto"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Css React",
+    "description": "A Beginner level frontend development project focusing on JavaScript, CSS, React.",
+    "domain": "Frontend Development",
+    "tools": [
+      "CSS",
+      "Tailwind",
+      "Bootstrap"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "JavaScript",
+      "CSS",
+      "React"
+    ],
+    "resume_match_threshold": 0.5,
+    "jd_keywords_match": [
+      "React",
+      "JavaScript"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Vulnerability Wireshark",
+    "description": "A Advanced level cybersecurity project focusing on encryption, Wireshark, vulnerability.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Nmap",
+      "Kali Linux",
+      "Wireshark"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "encryption",
+      "Wireshark",
+      "vulnerability"
+    ],
+    "resume_match_threshold": 0.47,
+    "jd_keywords_match": [
+      "Wireshark",
+      "vulnerability"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Ios Push Notifications",
+    "description": "A Advanced level mobile app development project focusing on push notifications, cross-platform, iOS.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "React Native",
+      "Android Studio",
+      "Flutter"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "push notifications",
+      "cross-platform",
+      "iOS"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "cross-platform",
+      "push notifications"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Nmap Network Security",
+    "description": "A Intermediate level cybersecurity project focusing on Nmap, network security, malware.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Wireshark",
+      "Metasploit",
+      "Kali Linux"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Nmap",
+      "network security",
+      "malware"
+    ],
+    "resume_match_threshold": 0.46,
+    "jd_keywords_match": [
+      "Nmap",
+      "malware"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Django Flask",
+    "description": "A Beginner level backend development project focusing on Flask, Django, ORM.",
+    "domain": "Backend Development",
+    "tools": [
+      "Flask",
+      "Django",
+      "MySQL"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Flask",
+      "Django",
+      "ORM"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "Django",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Android React Native",
+    "description": "A Beginner level mobile app development project focusing on React Native, Android, iOS.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "React Native",
+      "Android Studio"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "React Native",
+      "Android",
+      "iOS"
+    ],
+    "resume_match_threshold": 0.34,
+    "jd_keywords_match": [
+      "React Native",
+      "iOS"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Web3 Blockchain",
+    "description": "A Intermediate level blockchain project focusing on Metamask, web3, blockchain.",
+    "domain": "Blockchain",
+    "tools": [
+      "Truffle",
+      "Ethereum",
+      "Web3.js"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Metamask",
+      "web3",
+      "blockchain"
+    ],
+    "resume_match_threshold": 0.5,
+    "jd_keywords_match": [
+      "blockchain",
+      "Metamask"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Django Orm",
+    "description": "A Advanced level backend development project focusing on Django, ORM, SQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Python",
+      "PostgreSQL",
+      "Django"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Django",
+      "ORM",
+      "SQL"
+    ],
+    "resume_match_threshold": 0.39,
+    "jd_keywords_match": [
+      "ORM",
+      "Django"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Authentication Rest",
+    "description": "A Intermediate level backend development project focusing on authentication, REST, Flask.",
+    "domain": "Backend Development",
+    "tools": [
+      "Python",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "authentication",
+      "REST",
+      "Flask"
+    ],
+    "resume_match_threshold": 0.6,
+    "jd_keywords_match": [
+      "Flask",
+      "REST"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Clustering Nlp",
+    "description": "A Advanced level data science project focusing on matplotlib, clustering, NLP.",
+    "domain": "Data Science",
+    "tools": [
+      "Matplotlib",
+      "NLTK",
+      "Python"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "matplotlib",
+      "clustering",
+      "NLP"
+    ],
+    "resume_match_threshold": 0.58,
+    "jd_keywords_match": [
+      "NLP",
+      "matplotlib"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Matplotlib Pandas",
+    "description": "A Advanced level data science project focusing on pandas, machine learning, matplotlib.",
+    "domain": "Data Science",
+    "tools": [
+      "Python",
+      "Matplotlib",
+      "XGBoost"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "pandas",
+      "machine learning",
+      "matplotlib"
+    ],
+    "resume_match_threshold": 0.52,
+    "jd_keywords_match": [
+      "matplotlib",
+      "pandas"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Html Tailwind",
+    "description": "A Advanced level frontend development project focusing on CSS, HTML, Tailwind.",
+    "domain": "Frontend Development",
+    "tools": [
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "CSS",
+      "HTML",
+      "Tailwind"
+    ],
+    "resume_match_threshold": 0.57,
+    "jd_keywords_match": [
+      "CSS",
+      "HTML"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Redux Responsive Design",
+    "description": "A Beginner level frontend development project focusing on DOM manipulation, responsive design, Redux.",
+    "domain": "Frontend Development",
+    "tools": [
+      "React",
+      "Tailwind",
+      "JavaScript"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "DOM manipulation",
+      "responsive design",
+      "Redux"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "DOM manipulation",
+      "Redux"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Aws Cloud Functions",
+    "description": "A Advanced level cloud computing project focusing on AWS, cloud functions, S3.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "EC2",
+      "Lambda",
+      "Azure"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "AWS",
+      "cloud functions",
+      "S3"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "S3",
+      "AWS"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Ec2 Load Balancing",
+    "description": "A Beginner level cloud computing project focusing on GCP, load balancing, EC2.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "EC2",
+      "AWS",
+      "Lambda"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "GCP",
+      "load balancing",
+      "EC2"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "EC2",
+      "GCP"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Postgresql Orm",
+    "description": "A Advanced level backend development project focusing on PostgreSQL, authentication, ORM.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "Python",
+      "PostgreSQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "PostgreSQL",
+      "authentication",
+      "ORM"
+    ],
+    "resume_match_threshold": 0.51,
+    "jd_keywords_match": [
+      "ORM",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Authentication Django",
+    "description": "A Beginner level backend development project focusing on Django, SQL, authentication.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "Python",
+      "Flask"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Django",
+      "SQL",
+      "authentication"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "authentication",
+      "SQL"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Ci/Cd Github Actions",
+    "description": "A Beginner level devops project focusing on Docker, CI/CD, GitHub Actions.",
+    "domain": "DevOps",
+    "tools": [
+      "AWS",
+      "Git",
+      "Kubernetes"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Docker",
+      "CI/CD",
+      "GitHub Actions"
+    ],
+    "resume_match_threshold": 0.47,
+    "jd_keywords_match": [
+      "Docker",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Ec2 Azure",
+    "description": "A Beginner level cloud computing project focusing on EC2, Azure, cloud storage.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "GCP",
+      "Lambda",
+      "EC2"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "EC2",
+      "Azure",
+      "cloud storage"
+    ],
+    "resume_match_threshold": 0.57,
+    "jd_keywords_match": [
+      "EC2",
+      "Azure"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Malware Penetration Testing",
+    "description": "A Beginner level cybersecurity project focusing on penetration testing, malware, encryption.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Kali Linux",
+      "Nmap",
+      "Wireshark"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "penetration testing",
+      "malware",
+      "encryption"
+    ],
+    "resume_match_threshold": 0.45,
+    "jd_keywords_match": [
+      "encryption",
+      "penetration testing"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Smart Contracts Crypto",
+    "description": "A Beginner level blockchain project focusing on crypto, Metamask, smart contracts.",
+    "domain": "Blockchain",
+    "tools": [
+      "Web3.js",
+      "Solidity",
+      "Ethereum"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "crypto",
+      "Metamask",
+      "smart contracts"
+    ],
+    "resume_match_threshold": 0.46,
+    "jd_keywords_match": [
+      "smart contracts",
+      "Metamask"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Nlp Classification",
+    "description": "A Advanced level data science project focusing on classification, NLP, EDA.",
+    "domain": "Data Science",
+    "tools": [
+      "Seaborn",
+      "Python",
+      "NLTK"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "classification",
+      "NLP",
+      "EDA"
+    ],
+    "resume_match_threshold": 0.36,
+    "jd_keywords_match": [
+      "NLP",
+      "classification"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Crud Authentication",
+    "description": "A Advanced level backend development project focusing on authentication, CRUD, PostgreSQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "PostgreSQL",
+      "Flask",
+      "Python"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "authentication",
+      "CRUD",
+      "PostgreSQL"
+    ],
+    "resume_match_threshold": 0.51,
+    "jd_keywords_match": [
+      "PostgreSQL",
+      "authentication"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Network Security Hashing",
+    "description": "A Advanced level cybersecurity project focusing on network security, hashing, penetration testing.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Nmap",
+      "Metasploit",
+      "Kali Linux"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "network security",
+      "hashing",
+      "penetration testing"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "penetration testing",
+      "network security"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Gcp Docker",
+    "description": "A Intermediate level devops project focusing on Docker, GCP, Jenkins.",
+    "domain": "DevOps",
+    "tools": [
+      "AWS",
+      "Kubernetes",
+      "Git"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Docker",
+      "GCP",
+      "Jenkins"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "GCP",
+      "Docker"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Terraform Github Actions",
+    "description": "A Advanced level devops project focusing on Jenkins, Terraform, GitHub Actions.",
+    "domain": "DevOps",
+    "tools": [
+      "Git",
+      "Kubernetes",
+      "AWS"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Jenkins",
+      "Terraform",
+      "GitHub Actions"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "Jenkins",
+      "Terraform"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Apis Rest",
+    "description": "A Beginner level backend development project focusing on SQL, APIs, REST.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "Python",
+      "MySQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "SQL",
+      "APIs",
+      "REST"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "REST",
+      "APIs"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Docker Gcp",
+    "description": "A Beginner level devops project focusing on GCP, Docker, Terraform.",
+    "domain": "DevOps",
+    "tools": [
+      "AWS",
+      "Docker",
+      "Terraform"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "GCP",
+      "Docker",
+      "Terraform"
+    ],
+    "resume_match_threshold": 0.45,
+    "jd_keywords_match": [
+      "GCP",
+      "Terraform"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Docker Ansible",
+    "description": "A Beginner level devops project focusing on Docker, CI/CD, Ansible.",
+    "domain": "DevOps",
+    "tools": [
+      "Terraform",
+      "Git",
+      "Kubernetes"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Docker",
+      "CI/CD",
+      "Ansible"
+    ],
+    "resume_match_threshold": 0.52,
+    "jd_keywords_match": [
+      "Docker",
+      "Ansible"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Regression Pandas",
+    "description": "A Advanced level data science project focusing on pandas, regression, EDA.",
+    "domain": "Data Science",
+    "tools": [
+      "Pandas",
+      "XGBoost",
+      "Python"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "pandas",
+      "regression",
+      "EDA"
+    ],
+    "resume_match_threshold": 0.49,
+    "jd_keywords_match": [
+      "pandas",
+      "regression"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Vulnerability Nmap",
+    "description": "A Beginner level cybersecurity project focusing on vulnerability, Nmap, malware.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Kali Linux",
+      "Nmap",
+      "Metasploit"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "vulnerability",
+      "Nmap",
+      "malware"
+    ],
+    "resume_match_threshold": 0.53,
+    "jd_keywords_match": [
+      "Nmap",
+      "vulnerability"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Cloud Functions Gcp",
+    "description": "A Intermediate level cloud computing project focusing on cloud functions, GCP, cloud storage.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "S3",
+      "AWS",
+      "EC2"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "cloud functions",
+      "GCP",
+      "cloud storage"
+    ],
+    "resume_match_threshold": 0.55,
+    "jd_keywords_match": [
+      "GCP",
+      "cloud functions"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Ethereum Smart Contracts",
+    "description": "A Intermediate level blockchain project focusing on Ethereum, blockchain, smart contracts.",
+    "domain": "Blockchain",
+    "tools": [
+      "Truffle",
+      "Ethereum",
+      "Web3.js"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Ethereum",
+      "blockchain",
+      "smart contracts"
+    ],
+    "resume_match_threshold": 0.58,
+    "jd_keywords_match": [
+      "blockchain",
+      "Ethereum"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Cross-Platform React Native",
+    "description": "A Beginner level mobile app development project focusing on Flutter, cross-platform, React Native.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "React Native",
+      "Android Studio"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Flutter",
+      "cross-platform",
+      "React Native"
+    ],
+    "resume_match_threshold": 0.55,
+    "jd_keywords_match": [
+      "cross-platform",
+      "Flutter"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Crud Apis",
+    "description": "A Intermediate level backend development project focusing on APIs, CRUD, authentication.",
+    "domain": "Backend Development",
+    "tools": [
+      "Flask",
+      "PostgreSQL",
+      "Python"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "APIs",
+      "CRUD",
+      "authentication"
+    ],
+    "resume_match_threshold": 0.47,
+    "jd_keywords_match": [
+      "APIs",
+      "authentication"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Terraform Github Actions",
+    "description": "A Intermediate level devops project focusing on Terraform, GitHub Actions, CI/CD.",
+    "domain": "DevOps",
+    "tools": [
+      "Git",
+      "Docker",
+      "Jenkins"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Terraform",
+      "GitHub Actions",
+      "CI/CD"
+    ],
+    "resume_match_threshold": 0.34,
+    "jd_keywords_match": [
+      "Terraform",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Eda Machine Learning",
+    "description": "A Beginner level data science project focusing on EDA, classification, machine learning.",
+    "domain": "Data Science",
+    "tools": [
+      "Seaborn",
+      "scikit-learn",
+      "XGBoost"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "EDA",
+      "classification",
+      "machine learning"
+    ],
+    "resume_match_threshold": 0.43,
+    "jd_keywords_match": [
+      "machine learning",
+      "EDA"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Cross-Platform React Native",
+    "description": "A Intermediate level mobile app development project focusing on push notifications, React Native, cross-platform.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "Android Studio",
+      "React Native"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "push notifications",
+      "React Native",
+      "cross-platform"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "cross-platform",
+      "push notifications"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Smart Contracts Crypto",
+    "description": "A Beginner level blockchain project focusing on smart contracts, crypto, wallets.",
+    "domain": "Blockchain",
+    "tools": [
+      "Solidity",
+      "Ethereum",
+      "Truffle"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "smart contracts",
+      "crypto",
+      "wallets"
+    ],
+    "resume_match_threshold": 0.3,
+    "jd_keywords_match": [
+      "crypto",
+      "wallets"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Wireshark Encryption",
+    "description": "A Intermediate level cybersecurity project focusing on malware, Wireshark, encryption.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Kali Linux",
+      "Nmap",
+      "Metasploit"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "malware",
+      "Wireshark",
+      "encryption"
+    ],
+    "resume_match_threshold": 0.34,
+    "jd_keywords_match": [
+      "encryption",
+      "Wireshark"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Gcp Terraform",
+    "description": "A Intermediate level devops project focusing on GCP, Terraform, AWS.",
+    "domain": "DevOps",
+    "tools": [
+      "AWS",
+      "Docker",
+      "Terraform"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "GCP",
+      "Terraform",
+      "AWS"
+    ],
+    "resume_match_threshold": 0.32,
+    "jd_keywords_match": [
+      "Terraform",
+      "GCP"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Authentication Postgresql",
+    "description": "A Advanced level backend development project focusing on Django, PostgreSQL, authentication.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Django",
+      "PostgreSQL",
+      "authentication"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "Django",
+      "authentication"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Dapps Web3",
+    "description": "A Intermediate level blockchain project focusing on web3, dApps, wallets.",
+    "domain": "Blockchain",
+    "tools": [
+      "Truffle",
+      "Solidity",
+      "Ethereum"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "web3",
+      "dApps",
+      "wallets"
+    ],
+    "resume_match_threshold": 0.38,
+    "jd_keywords_match": [
+      "web3",
+      "wallets"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Javascript Tailwind",
+    "description": "A Advanced level frontend development project focusing on CSS, JavaScript, Tailwind.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Bootstrap",
+      "HTML",
+      "CSS"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "CSS",
+      "JavaScript",
+      "Tailwind"
+    ],
+    "resume_match_threshold": 0.55,
+    "jd_keywords_match": [
+      "Tailwind",
+      "JavaScript"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Rest Django",
+    "description": "A Beginner level backend development project focusing on REST, CRUD, Django.",
+    "domain": "Backend Development",
+    "tools": [
+      "MySQL",
+      "Flask",
+      "Django"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "REST",
+      "CRUD",
+      "Django"
+    ],
+    "resume_match_threshold": 0.54,
+    "jd_keywords_match": [
+      "Django",
+      "REST"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Ansible Aws",
+    "description": "A Advanced level devops project focusing on AWS, Kubernetes, Ansible.",
+    "domain": "DevOps",
+    "tools": [
+      "Kubernetes",
+      "Terraform",
+      "AWS"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "AWS",
+      "Kubernetes",
+      "Ansible"
+    ],
+    "resume_match_threshold": 0.39,
+    "jd_keywords_match": [
+      "Kubernetes",
+      "AWS"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Flask Orm",
+    "description": "A Beginner level backend development project focusing on Flask, SQL, ORM.",
+    "domain": "Backend Development",
+    "tools": [
+      "Python",
+      "MySQL",
+      "Django"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Flask",
+      "SQL",
+      "ORM"
+    ],
+    "resume_match_threshold": 0.36,
+    "jd_keywords_match": [
+      "Flask",
+      "SQL"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Django Rest",
+    "description": "A Beginner level backend development project focusing on REST, Django, CRUD.",
+    "domain": "Backend Development",
+    "tools": [
+      "PostgreSQL",
+      "MySQL",
+      "Python"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "REST",
+      "Django",
+      "CRUD"
+    ],
+    "resume_match_threshold": 0.45,
+    "jd_keywords_match": [
+      "CRUD",
+      "REST"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Docker Kubernetes",
+    "description": "A Advanced level devops project focusing on Kubernetes, GitHub Actions, Docker.",
+    "domain": "DevOps",
+    "tools": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Kubernetes",
+      "GitHub Actions",
+      "Docker"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "Docker",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - React Native Ui/Ux",
+    "description": "A Intermediate level mobile app development project focusing on Flutter, UI/UX, React Native.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Flutter",
+      "Firebase",
+      "React Native"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Flutter",
+      "UI/UX",
+      "React Native"
+    ],
+    "resume_match_threshold": 0.39,
+    "jd_keywords_match": [
+      "UI/UX",
+      "Flutter"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Cross-Platform React Native",
+    "description": "A Advanced level mobile app development project focusing on push notifications, React Native, cross-platform.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "React Native",
+      "Firebase",
+      "Android Studio"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "push notifications",
+      "React Native",
+      "cross-platform"
+    ],
+    "resume_match_threshold": 0.39,
+    "jd_keywords_match": [
+      "React Native",
+      "cross-platform"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Wireshark Nmap",
+    "description": "A Beginner level cybersecurity project focusing on Nmap, Wireshark, network security.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Kali Linux",
+      "Wireshark",
+      "Nmap"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Nmap",
+      "Wireshark",
+      "network security"
+    ],
+    "resume_match_threshold": 0.45,
+    "jd_keywords_match": [
+      "Nmap",
+      "Wireshark"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Ios Ui/Ux",
+    "description": "A Advanced level mobile app development project focusing on iOS, UI/UX, Firebase.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "Android Studio",
+      "Flutter"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "iOS",
+      "UI/UX",
+      "Firebase"
+    ],
+    "resume_match_threshold": 0.54,
+    "jd_keywords_match": [
+      "Firebase",
+      "UI/UX"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Flutter Push Notifications",
+    "description": "A Intermediate level mobile app development project focusing on iOS, Flutter, push notifications.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Flutter",
+      "Firebase",
+      "Android Studio"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "iOS",
+      "Flutter",
+      "push notifications"
+    ],
+    "resume_match_threshold": 0.31,
+    "jd_keywords_match": [
+      "Flutter",
+      "iOS"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Matplotlib Pandas",
+    "description": "A Intermediate level data science project focusing on EDA, pandas, matplotlib.",
+    "domain": "Data Science",
+    "tools": [
+      "Python",
+      "NLTK",
+      "scikit-learn"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "EDA",
+      "pandas",
+      "matplotlib"
+    ],
+    "resume_match_threshold": 0.43,
+    "jd_keywords_match": [
+      "EDA",
+      "pandas"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Regression Pandas",
+    "description": "A Intermediate level data science project focusing on numpy, regression, pandas.",
+    "domain": "Data Science",
+    "tools": [
+      "XGBoost",
+      "Pandas",
+      "Matplotlib"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "numpy",
+      "regression",
+      "pandas"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "numpy",
+      "regression"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Ethereum Blockchain",
+    "description": "A Beginner level blockchain project focusing on smart contracts, Ethereum, blockchain.",
+    "domain": "Blockchain",
+    "tools": [
+      "Ethereum",
+      "Truffle",
+      "Web3.js"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "smart contracts",
+      "Ethereum",
+      "blockchain"
+    ],
+    "resume_match_threshold": 0.39,
+    "jd_keywords_match": [
+      "blockchain",
+      "smart contracts"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Css Dom Manipulation",
+    "description": "A Beginner level frontend development project focusing on CSS, DOM manipulation, JavaScript.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Tailwind",
+      "CSS",
+      "HTML"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "CSS",
+      "DOM manipulation",
+      "JavaScript"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "JavaScript",
+      "CSS"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Ethereum Solidity",
+    "description": "A Intermediate level blockchain project focusing on dApps, Solidity, Ethereum.",
+    "domain": "Blockchain",
+    "tools": [
+      "Ethereum",
+      "Web3.js",
+      "Solidity"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "dApps",
+      "Solidity",
+      "Ethereum"
+    ],
+    "resume_match_threshold": 0.33,
+    "jd_keywords_match": [
+      "Ethereum",
+      "dApps"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Dapps Crypto",
+    "description": "A Intermediate level blockchain project focusing on dApps, crypto, wallets.",
+    "domain": "Blockchain",
+    "tools": [
+      "Web3.js",
+      "Truffle",
+      "Ethereum"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "dApps",
+      "crypto",
+      "wallets"
+    ],
+    "resume_match_threshold": 0.59,
+    "jd_keywords_match": [
+      "dApps",
+      "wallets"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Serverless S3",
+    "description": "A Intermediate level cloud computing project focusing on serverless, Azure, S3.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "AWS",
+      "S3",
+      "Lambda"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "serverless",
+      "Azure",
+      "S3"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "serverless",
+      "Azure"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Ios Push Notifications",
+    "description": "A Advanced level mobile app development project focusing on Firebase, iOS, push notifications.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "React Native",
+      "Flutter",
+      "Firebase"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Firebase",
+      "iOS",
+      "push notifications"
+    ],
+    "resume_match_threshold": 0.49,
+    "jd_keywords_match": [
+      "iOS",
+      "Firebase"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Ansible Terraform",
+    "description": "A Intermediate level devops project focusing on Terraform, AWS, Ansible.",
+    "domain": "DevOps",
+    "tools": [
+      "Git",
+      "Docker",
+      "Jenkins"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Terraform",
+      "AWS",
+      "Ansible"
+    ],
+    "resume_match_threshold": 0.39,
+    "jd_keywords_match": [
+      "Ansible",
+      "Terraform"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Css Redux",
+    "description": "A Beginner level frontend development project focusing on CSS, React, Redux.",
+    "domain": "Frontend Development",
+    "tools": [
+      "CSS",
+      "JavaScript",
+      "HTML"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "CSS",
+      "React",
+      "Redux"
+    ],
+    "resume_match_threshold": 0.52,
+    "jd_keywords_match": [
+      "React",
+      "CSS"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Authentication Flask",
+    "description": "A Advanced level backend development project focusing on SQL, Flask, authentication.",
+    "domain": "Backend Development",
+    "tools": [
+      "MySQL",
+      "PostgreSQL",
+      "Django"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "SQL",
+      "Flask",
+      "authentication"
+    ],
+    "resume_match_threshold": 0.34,
+    "jd_keywords_match": [
+      "authentication",
+      "SQL"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Firebase Push Notifications",
+    "description": "A Intermediate level mobile app development project focusing on push notifications, React Native, Firebase.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "Flutter",
+      "React Native"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "push notifications",
+      "React Native",
+      "Firebase"
+    ],
+    "resume_match_threshold": 0.52,
+    "jd_keywords_match": [
+      "React Native",
+      "Firebase"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Ec2 Aws",
+    "description": "A Advanced level cloud computing project focusing on AWS, EC2, cloud functions.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "GCP",
+      "Lambda",
+      "EC2"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "AWS",
+      "EC2",
+      "cloud functions"
+    ],
+    "resume_match_threshold": 0.56,
+    "jd_keywords_match": [
+      "cloud functions",
+      "EC2"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Rest Flask",
+    "description": "A Intermediate level backend development project focusing on Flask, REST, APIs.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Flask",
+      "REST",
+      "APIs"
+    ],
+    "resume_match_threshold": 0.53,
+    "jd_keywords_match": [
+      "Flask",
+      "APIs"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Apis Flask",
+    "description": "A Advanced level backend development project focusing on APIs, Flask, authentication.",
+    "domain": "Backend Development",
+    "tools": [
+      "Python",
+      "Flask",
+      "PostgreSQL"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "APIs",
+      "Flask",
+      "authentication"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "APIs",
+      "Flask"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Aws Ci/Cd",
+    "description": "A Advanced level devops project focusing on CI/CD, Kubernetes, AWS.",
+    "domain": "DevOps",
+    "tools": [
+      "Docker",
+      "Git",
+      "Kubernetes"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "CI/CD",
+      "Kubernetes",
+      "AWS"
+    ],
+    "resume_match_threshold": 0.44,
+    "jd_keywords_match": [
+      "Kubernetes",
+      "CI/CD"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Gcp Jenkins",
+    "description": "A Advanced level devops project focusing on GCP, Jenkins, Docker.",
+    "domain": "DevOps",
+    "tools": [
+      "Docker",
+      "Git",
+      "AWS"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "GCP",
+      "Jenkins",
+      "Docker"
+    ],
+    "resume_match_threshold": 0.38,
+    "jd_keywords_match": [
+      "Docker",
+      "Jenkins"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Malware Nmap",
+    "description": "A Intermediate level cybersecurity project focusing on firewall, malware, Nmap.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Kali Linux",
+      "Nmap",
+      "Wireshark"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "firewall",
+      "malware",
+      "Nmap"
+    ],
+    "resume_match_threshold": 0.57,
+    "jd_keywords_match": [
+      "Nmap",
+      "malware"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Tailwind Javascript",
+    "description": "A Advanced level frontend development project focusing on Tailwind, JavaScript, DOM manipulation.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Tailwind",
+      "HTML",
+      "Bootstrap"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Tailwind",
+      "JavaScript",
+      "DOM manipulation"
+    ],
+    "resume_match_threshold": 0.54,
+    "jd_keywords_match": [
+      "DOM manipulation",
+      "JavaScript"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Docker Jenkins",
+    "description": "A Beginner level devops project focusing on GitHub Actions, Docker, Jenkins.",
+    "domain": "DevOps",
+    "tools": [
+      "Git",
+      "Jenkins",
+      "Kubernetes"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "GitHub Actions",
+      "Docker",
+      "Jenkins"
+    ],
+    "resume_match_threshold": 0.54,
+    "jd_keywords_match": [
+      "Jenkins",
+      "Docker"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Wireshark Firewall",
+    "description": "A Advanced level cybersecurity project focusing on encryption, Wireshark, firewall.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Kali Linux",
+      "Wireshark",
+      "Metasploit"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "encryption",
+      "Wireshark",
+      "firewall"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "encryption",
+      "Wireshark"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Github Actions Terraform",
+    "description": "A Beginner level devops project focusing on Terraform, AWS, GitHub Actions.",
+    "domain": "DevOps",
+    "tools": [
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Terraform",
+      "AWS",
+      "GitHub Actions"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "Terraform",
+      "AWS"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Firewall Malware",
+    "description": "A Advanced level cybersecurity project focusing on firewall, encryption, malware.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Wireshark",
+      "Nmap",
+      "Metasploit"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "firewall",
+      "encryption",
+      "malware"
+    ],
+    "resume_match_threshold": 0.39,
+    "jd_keywords_match": [
+      "encryption",
+      "malware"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Ethereum Blockchain",
+    "description": "A Intermediate level blockchain project focusing on wallets, Ethereum, blockchain.",
+    "domain": "Blockchain",
+    "tools": [
+      "Web3.js",
+      "Ethereum",
+      "Truffle"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "wallets",
+      "Ethereum",
+      "blockchain"
+    ],
+    "resume_match_threshold": 0.5,
+    "jd_keywords_match": [
+      "wallets",
+      "Ethereum"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Orm Apis",
+    "description": "A Beginner level backend development project focusing on APIs, CRUD, ORM.",
+    "domain": "Backend Development",
+    "tools": [
+      "PostgreSQL",
+      "Django",
+      "Python"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "APIs",
+      "CRUD",
+      "ORM"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "APIs",
+      "CRUD"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Responsive Design Html",
+    "description": "A Intermediate level frontend development project focusing on UI/UX, responsive design, HTML.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Tailwind",
+      "CSS",
+      "Bootstrap"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "UI/UX",
+      "responsive design",
+      "HTML"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "HTML",
+      "responsive design"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Malware Penetration Testing",
+    "description": "A Beginner level cybersecurity project focusing on vulnerability, penetration testing, malware.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Wireshark",
+      "Metasploit",
+      "Kali Linux"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "vulnerability",
+      "penetration testing",
+      "malware"
+    ],
+    "resume_match_threshold": 0.45,
+    "jd_keywords_match": [
+      "penetration testing",
+      "malware"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Flask Apis",
+    "description": "A Beginner level backend development project focusing on APIs, PostgreSQL, Flask.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "APIs",
+      "PostgreSQL",
+      "Flask"
+    ],
+    "resume_match_threshold": 0.53,
+    "jd_keywords_match": [
+      "APIs",
+      "Flask"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Ethereum Solidity",
+    "description": "A Advanced level blockchain project focusing on Ethereum, crypto, Solidity.",
+    "domain": "Blockchain",
+    "tools": [
+      "Solidity",
+      "Ethereum",
+      "Web3.js"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Ethereum",
+      "crypto",
+      "Solidity"
+    ],
+    "resume_match_threshold": 0.44,
+    "jd_keywords_match": [
+      "crypto",
+      "Ethereum"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Crud Orm",
+    "description": "A Advanced level backend development project focusing on CRUD, PostgreSQL, ORM.",
+    "domain": "Backend Development",
+    "tools": [
+      "PostgreSQL",
+      "MySQL",
+      "Python"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "CRUD",
+      "PostgreSQL",
+      "ORM"
+    ],
+    "resume_match_threshold": 0.45,
+    "jd_keywords_match": [
+      "PostgreSQL",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Matplotlib Scikit-Learn",
+    "description": "A Beginner level data science project focusing on scikit-learn, matplotlib, classification.",
+    "domain": "Data Science",
+    "tools": [
+      "XGBoost",
+      "NLTK",
+      "Matplotlib"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "scikit-learn",
+      "matplotlib",
+      "classification"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "matplotlib",
+      "classification"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Docker Ci/Cd",
+    "description": "A Advanced level devops project focusing on GCP, Docker, CI/CD.",
+    "domain": "DevOps",
+    "tools": [
+      "Kubernetes",
+      "Jenkins",
+      "Docker"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "GCP",
+      "Docker",
+      "CI/CD"
+    ],
+    "resume_match_threshold": 0.31,
+    "jd_keywords_match": [
+      "GCP",
+      "Docker"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Apis Orm",
+    "description": "A Advanced level backend development project focusing on APIs, ORM, PostgreSQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "Python",
+      "MySQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "APIs",
+      "ORM",
+      "PostgreSQL"
+    ],
+    "resume_match_threshold": 0.46,
+    "jd_keywords_match": [
+      "PostgreSQL",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Responsive Design Html",
+    "description": "A Advanced level frontend development project focusing on JavaScript, responsive design, HTML.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Bootstrap",
+      "Tailwind",
+      "React"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "JavaScript",
+      "responsive design",
+      "HTML"
+    ],
+    "resume_match_threshold": 0.5,
+    "jd_keywords_match": [
+      "JavaScript",
+      "responsive design"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Apis Flask",
+    "description": "A Beginner level backend development project focusing on authentication, Flask, APIs.",
+    "domain": "Backend Development",
+    "tools": [
+      "MySQL",
+      "Flask",
+      "Python"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "authentication",
+      "Flask",
+      "APIs"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "Flask",
+      "APIs"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Serverless Cloud Functions",
+    "description": "A Advanced level cloud computing project focusing on cloud functions, serverless, AWS.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "Azure",
+      "AWS",
+      "GCP"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "cloud functions",
+      "serverless",
+      "AWS"
+    ],
+    "resume_match_threshold": 0.44,
+    "jd_keywords_match": [
+      "serverless",
+      "AWS"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Javascript Dom Manipulation",
+    "description": "A Advanced level frontend development project focusing on JavaScript, UI/UX, DOM manipulation.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Tailwind",
+      "Bootstrap",
+      "CSS"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "JavaScript",
+      "UI/UX",
+      "DOM manipulation"
+    ],
+    "resume_match_threshold": 0.33,
+    "jd_keywords_match": [
+      "UI/UX",
+      "JavaScript"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Numpy Eda",
+    "description": "A Beginner level data science project focusing on classification, EDA, numpy.",
+    "domain": "Data Science",
+    "tools": [
+      "Matplotlib",
+      "XGBoost",
+      "Seaborn"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "classification",
+      "EDA",
+      "numpy"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "classification",
+      "numpy"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Smart Contracts Dapps",
+    "description": "A Intermediate level blockchain project focusing on Solidity, smart contracts, dApps.",
+    "domain": "Blockchain",
+    "tools": [
+      "Solidity",
+      "Truffle",
+      "Web3.js"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Solidity",
+      "smart contracts",
+      "dApps"
+    ],
+    "resume_match_threshold": 0.31,
+    "jd_keywords_match": [
+      "smart contracts",
+      "dApps"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Wireshark Firewall",
+    "description": "A Beginner level cybersecurity project focusing on malware, firewall, Wireshark.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Nmap",
+      "Metasploit",
+      "Kali Linux"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "malware",
+      "firewall",
+      "Wireshark"
+    ],
+    "resume_match_threshold": 0.43,
+    "jd_keywords_match": [
+      "malware",
+      "firewall"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Push Notifications Ios",
+    "description": "A Advanced level mobile app development project focusing on Firebase, iOS, push notifications.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "React Native",
+      "Android Studio",
+      "Flutter"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Firebase",
+      "iOS",
+      "push notifications"
+    ],
+    "resume_match_threshold": 0.57,
+    "jd_keywords_match": [
+      "Firebase",
+      "iOS"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Terraform Ansible",
+    "description": "A Intermediate level devops project focusing on CI/CD, Terraform, Ansible.",
+    "domain": "DevOps",
+    "tools": [
+      "Kubernetes",
+      "Terraform",
+      "AWS"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "CI/CD",
+      "Terraform",
+      "Ansible"
+    ],
+    "resume_match_threshold": 0.38,
+    "jd_keywords_match": [
+      "CI/CD",
+      "Ansible"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Eda Scikit-Learn",
+    "description": "A Advanced level data science project focusing on EDA, scikit-learn, NLP.",
+    "domain": "Data Science",
+    "tools": [
+      "scikit-learn",
+      "XGBoost",
+      "Matplotlib"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "EDA",
+      "scikit-learn",
+      "NLP"
+    ],
+    "resume_match_threshold": 0.38,
+    "jd_keywords_match": [
+      "NLP",
+      "scikit-learn"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Pandas Nlp",
+    "description": "A Advanced level data science project focusing on pandas, NLP, machine learning.",
+    "domain": "Data Science",
+    "tools": [
+      "Matplotlib",
+      "Python",
+      "Seaborn"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "pandas",
+      "NLP",
+      "machine learning"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "pandas",
+      "machine learning"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Machine Learning Pandas",
+    "description": "A Intermediate level data science project focusing on clustering, pandas, machine learning.",
+    "domain": "Data Science",
+    "tools": [
+      "XGBoost",
+      "Pandas",
+      "NLTK"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "clustering",
+      "pandas",
+      "machine learning"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "pandas",
+      "clustering"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Ethereum Smart Contracts",
+    "description": "A Advanced level blockchain project focusing on Solidity, Ethereum, smart contracts.",
+    "domain": "Blockchain",
+    "tools": [
+      "Ethereum",
+      "Solidity",
+      "Truffle"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Solidity",
+      "Ethereum",
+      "smart contracts"
+    ],
+    "resume_match_threshold": 0.52,
+    "jd_keywords_match": [
+      "smart contracts",
+      "Ethereum"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - S3 Ec2",
+    "description": "A Intermediate level cloud computing project focusing on EC2, S3, cloud storage.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "GCP",
+      "S3",
+      "Azure"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "EC2",
+      "S3",
+      "cloud storage"
+    ],
+    "resume_match_threshold": 0.4,
+    "jd_keywords_match": [
+      "EC2",
+      "S3"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Clustering Machine Learning",
+    "description": "A Advanced level data science project focusing on clustering, machine learning, NLP.",
+    "domain": "Data Science",
+    "tools": [
+      "Python",
+      "Pandas",
+      "Seaborn"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "clustering",
+      "machine learning",
+      "NLP"
+    ],
+    "resume_match_threshold": 0.32,
+    "jd_keywords_match": [
+      "NLP",
+      "machine learning"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Firewall Network Security",
+    "description": "A Intermediate level cybersecurity project focusing on vulnerability, firewall, network security.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Metasploit",
+      "Nmap",
+      "Kali Linux"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "vulnerability",
+      "firewall",
+      "network security"
+    ],
+    "resume_match_threshold": 0.3,
+    "jd_keywords_match": [
+      "vulnerability",
+      "network security"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Wallets Solidity",
+    "description": "A Beginner level blockchain project focusing on smart contracts, Solidity, wallets.",
+    "domain": "Blockchain",
+    "tools": [
+      "Truffle",
+      "Web3.js",
+      "Solidity"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "smart contracts",
+      "Solidity",
+      "wallets"
+    ],
+    "resume_match_threshold": 0.43,
+    "jd_keywords_match": [
+      "Solidity",
+      "smart contracts"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Aws S3",
+    "description": "A Advanced level cloud computing project focusing on AWS, S3, serverless.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "EC2",
+      "Azure",
+      "Lambda"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "AWS",
+      "S3",
+      "serverless"
+    ],
+    "resume_match_threshold": 0.34,
+    "jd_keywords_match": [
+      "AWS",
+      "S3"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Django Crud",
+    "description": "A Intermediate level backend development project focusing on Django, REST, CRUD.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "Python",
+      "PostgreSQL"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Django",
+      "REST",
+      "CRUD"
+    ],
+    "resume_match_threshold": 0.32,
+    "jd_keywords_match": [
+      "REST",
+      "CRUD"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Kubernetes Gcp",
+    "description": "A Beginner level devops project focusing on GCP, Kubernetes, Ansible.",
+    "domain": "DevOps",
+    "tools": [
+      "Git",
+      "Kubernetes",
+      "AWS"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "GCP",
+      "Kubernetes",
+      "Ansible"
+    ],
+    "resume_match_threshold": 0.33,
+    "jd_keywords_match": [
+      "GCP",
+      "Kubernetes"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Regression Nlp",
+    "description": "A Beginner level data science project focusing on NLP, regression, clustering.",
+    "domain": "Data Science",
+    "tools": [
+      "Matplotlib",
+      "Seaborn",
+      "XGBoost"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "NLP",
+      "regression",
+      "clustering"
+    ],
+    "resume_match_threshold": 0.59,
+    "jd_keywords_match": [
+      "NLP",
+      "regression"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Classification Eda",
+    "description": "A Advanced level data science project focusing on classification, regression, EDA.",
+    "domain": "Data Science",
+    "tools": [
+      "NLTK",
+      "Pandas",
+      "Seaborn"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "classification",
+      "regression",
+      "EDA"
+    ],
+    "resume_match_threshold": 0.51,
+    "jd_keywords_match": [
+      "classification",
+      "regression"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Django Sql",
+    "description": "A Intermediate level backend development project focusing on ORM, Django, SQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "Flask",
+      "Python"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "ORM",
+      "Django",
+      "SQL"
+    ],
+    "resume_match_threshold": 0.36,
+    "jd_keywords_match": [
+      "SQL",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Sql Apis",
+    "description": "A Beginner level backend development project focusing on SQL, Flask, APIs.",
+    "domain": "Backend Development",
+    "tools": [
+      "Flask",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "SQL",
+      "Flask",
+      "APIs"
+    ],
+    "resume_match_threshold": 0.55,
+    "jd_keywords_match": [
+      "SQL",
+      "APIs"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Crypto Wallets",
+    "description": "A Intermediate level blockchain project focusing on web3, crypto, wallets.",
+    "domain": "Blockchain",
+    "tools": [
+      "Web3.js",
+      "Truffle",
+      "Ethereum"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "web3",
+      "crypto",
+      "wallets"
+    ],
+    "resume_match_threshold": 0.57,
+    "jd_keywords_match": [
+      "wallets",
+      "crypto"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Web3 Blockchain",
+    "description": "A Advanced level blockchain project focusing on smart contracts, web3, blockchain.",
+    "domain": "Blockchain",
+    "tools": [
+      "Solidity",
+      "Ethereum",
+      "Web3.js"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "smart contracts",
+      "web3",
+      "blockchain"
+    ],
+    "resume_match_threshold": 0.36,
+    "jd_keywords_match": [
+      "blockchain",
+      "smart contracts"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Jenkins Ci/Cd",
+    "description": "A Intermediate level devops project focusing on Jenkins, Kubernetes, CI/CD.",
+    "domain": "DevOps",
+    "tools": [
+      "Kubernetes",
+      "Jenkins",
+      "Git"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Jenkins",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "resume_match_threshold": 0.51,
+    "jd_keywords_match": [
+      "CI/CD",
+      "Jenkins"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Css Dom Manipulation",
+    "description": "A Advanced level frontend development project focusing on DOM manipulation, UI/UX, CSS.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Tailwind",
+      "Bootstrap",
+      "CSS"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "DOM manipulation",
+      "UI/UX",
+      "CSS"
+    ],
+    "resume_match_threshold": 0.52,
+    "jd_keywords_match": [
+      "DOM manipulation",
+      "UI/UX"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Matplotlib Numpy",
+    "description": "A Advanced level data science project focusing on matplotlib, numpy, clustering.",
+    "domain": "Data Science",
+    "tools": [
+      "Python",
+      "Matplotlib",
+      "XGBoost"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "matplotlib",
+      "numpy",
+      "clustering"
+    ],
+    "resume_match_threshold": 0.34,
+    "jd_keywords_match": [
+      "clustering",
+      "matplotlib"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Dom Manipulation Redux",
+    "description": "A Advanced level frontend development project focusing on HTML, Redux, DOM manipulation.",
+    "domain": "Frontend Development",
+    "tools": [
+      "CSS",
+      "Tailwind",
+      "JavaScript"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "HTML",
+      "Redux",
+      "DOM manipulation"
+    ],
+    "resume_match_threshold": 0.36,
+    "jd_keywords_match": [
+      "DOM manipulation",
+      "Redux"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Eda Pandas",
+    "description": "A Intermediate level data science project focusing on scikit-learn, EDA, pandas.",
+    "domain": "Data Science",
+    "tools": [
+      "XGBoost",
+      "Matplotlib",
+      "Pandas"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "scikit-learn",
+      "EDA",
+      "pandas"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "EDA",
+      "pandas"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Dom Manipulation Redux",
+    "description": "A Beginner level frontend development project focusing on JavaScript, DOM manipulation, Redux.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Tailwind",
+      "JavaScript",
+      "Bootstrap"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "JavaScript",
+      "DOM manipulation",
+      "Redux"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "JavaScript",
+      "Redux"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Pandas Regression",
+    "description": "A Beginner level data science project focusing on pandas, classification, regression.",
+    "domain": "Data Science",
+    "tools": [
+      "Pandas",
+      "Python",
+      "Seaborn"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "pandas",
+      "classification",
+      "regression"
+    ],
+    "resume_match_threshold": 0.31,
+    "jd_keywords_match": [
+      "regression",
+      "classification"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Ios Push Notifications",
+    "description": "A Beginner level mobile app development project focusing on Android, push notifications, iOS.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "Android Studio",
+      "React Native"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Android",
+      "push notifications",
+      "iOS"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "iOS",
+      "Android"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Numpy Scikit-Learn",
+    "description": "A Beginner level data science project focusing on numpy, scikit-learn, NLP.",
+    "domain": "Data Science",
+    "tools": [
+      "Matplotlib",
+      "NLTK",
+      "scikit-learn"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "numpy",
+      "scikit-learn",
+      "NLP"
+    ],
+    "resume_match_threshold": 0.33,
+    "jd_keywords_match": [
+      "numpy",
+      "scikit-learn"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Tailwind Redux",
+    "description": "A Intermediate level frontend development project focusing on Tailwind, Redux, JavaScript.",
+    "domain": "Frontend Development",
+    "tools": [
+      "HTML",
+      "CSS",
+      "Tailwind"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Tailwind",
+      "Redux",
+      "JavaScript"
+    ],
+    "resume_match_threshold": 0.49,
+    "jd_keywords_match": [
+      "Tailwind",
+      "Redux"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Docker Gcp",
+    "description": "A Intermediate level devops project focusing on Docker, Kubernetes, GCP.",
+    "domain": "DevOps",
+    "tools": [
+      "AWS",
+      "Git",
+      "Kubernetes"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Docker",
+      "Kubernetes",
+      "GCP"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "Kubernetes",
+      "Docker"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Android React Native",
+    "description": "A Advanced level mobile app development project focusing on push notifications, React Native, Android.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "Android Studio",
+      "Flutter"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "push notifications",
+      "React Native",
+      "Android"
+    ],
+    "resume_match_threshold": 0.38,
+    "jd_keywords_match": [
+      "React Native",
+      "push notifications"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Terraform Jenkins",
+    "description": "A Beginner level devops project focusing on Jenkins, Terraform, GitHub Actions.",
+    "domain": "DevOps",
+    "tools": [
+      "Terraform",
+      "Jenkins",
+      "Kubernetes"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Jenkins",
+      "Terraform",
+      "GitHub Actions"
+    ],
+    "resume_match_threshold": 0.36,
+    "jd_keywords_match": [
+      "Terraform",
+      "Jenkins"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Ui/Ux React Native",
+    "description": "A Advanced level mobile app development project focusing on UI/UX, React Native, Flutter.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Android Studio",
+      "React Native",
+      "Flutter"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "UI/UX",
+      "React Native",
+      "Flutter"
+    ],
+    "resume_match_threshold": 0.56,
+    "jd_keywords_match": [
+      "UI/UX",
+      "React Native"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Encryption Vulnerability",
+    "description": "A Beginner level cybersecurity project focusing on encryption, vulnerability, Wireshark.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Metasploit",
+      "Nmap",
+      "Wireshark"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "encryption",
+      "vulnerability",
+      "Wireshark"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "encryption",
+      "vulnerability"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Redux Javascript",
+    "description": "A Beginner level frontend development project focusing on Redux, JavaScript, UI/UX.",
+    "domain": "Frontend Development",
+    "tools": [
+      "React",
+      "CSS",
+      "JavaScript"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Redux",
+      "JavaScript",
+      "UI/UX"
+    ],
+    "resume_match_threshold": 0.44,
+    "jd_keywords_match": [
+      "UI/UX",
+      "JavaScript"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Ansible Kubernetes",
+    "description": "A Beginner level devops project focusing on Kubernetes, Ansible, Jenkins.",
+    "domain": "DevOps",
+    "tools": [
+      "Docker",
+      "Kubernetes",
+      "Git"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Kubernetes",
+      "Ansible",
+      "Jenkins"
+    ],
+    "resume_match_threshold": 0.33,
+    "jd_keywords_match": [
+      "Jenkins",
+      "Ansible"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Rest Postgresql",
+    "description": "A Advanced level backend development project focusing on REST, Django, PostgreSQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "Python",
+      "MySQL"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "REST",
+      "Django",
+      "PostgreSQL"
+    ],
+    "resume_match_threshold": 0.51,
+    "jd_keywords_match": [
+      "PostgreSQL",
+      "REST"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Network Security Hashing",
+    "description": "A Advanced level cybersecurity project focusing on firewall, network security, hashing.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Metasploit",
+      "Nmap",
+      "Wireshark"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "firewall",
+      "network security",
+      "hashing"
+    ],
+    "resume_match_threshold": 0.59,
+    "jd_keywords_match": [
+      "firewall",
+      "network security"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Scikit-Learn Machine Learning",
+    "description": "A Beginner level data science project focusing on classification, scikit-learn, machine learning.",
+    "domain": "Data Science",
+    "tools": [
+      "Pandas",
+      "scikit-learn",
+      "Seaborn"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "classification",
+      "scikit-learn",
+      "machine learning"
+    ],
+    "resume_match_threshold": 0.32,
+    "jd_keywords_match": [
+      "classification",
+      "scikit-learn"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Aws Github Actions",
+    "description": "A Intermediate level devops project focusing on GitHub Actions, Jenkins, AWS.",
+    "domain": "DevOps",
+    "tools": [
+      "Git",
+      "Docker",
+      "Terraform"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "GitHub Actions",
+      "Jenkins",
+      "AWS"
+    ],
+    "resume_match_threshold": 0.54,
+    "jd_keywords_match": [
+      "AWS",
+      "Jenkins"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Authentication Orm",
+    "description": "A Advanced level backend development project focusing on ORM, CRUD, authentication.",
+    "domain": "Backend Development",
+    "tools": [
+      "PostgreSQL",
+      "MySQL",
+      "Python"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "ORM",
+      "CRUD",
+      "authentication"
+    ],
+    "resume_match_threshold": 0.44,
+    "jd_keywords_match": [
+      "CRUD",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Authentication Orm",
+    "description": "A Intermediate level backend development project focusing on ORM, REST, authentication.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "Flask",
+      "PostgreSQL"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "ORM",
+      "REST",
+      "authentication"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "REST",
+      "authentication"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - React Native Flutter",
+    "description": "A Beginner level mobile app development project focusing on Flutter, React Native, iOS.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Android Studio",
+      "Flutter",
+      "Firebase"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Flutter",
+      "React Native",
+      "iOS"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "iOS",
+      "React Native"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Clustering Pandas",
+    "description": "A Advanced level data science project focusing on clustering, pandas, regression.",
+    "domain": "Data Science",
+    "tools": [
+      "Seaborn",
+      "Pandas",
+      "XGBoost"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "clustering",
+      "pandas",
+      "regression"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "pandas",
+      "clustering"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Load Balancing Serverless",
+    "description": "A Advanced level cloud computing project focusing on Azure, serverless, load balancing.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "S3",
+      "Azure",
+      "EC2"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Azure",
+      "serverless",
+      "load balancing"
+    ],
+    "resume_match_threshold": 0.59,
+    "jd_keywords_match": [
+      "Azure",
+      "load balancing"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Rest Orm",
+    "description": "A Advanced level backend development project focusing on REST, ORM, CRUD.",
+    "domain": "Backend Development",
+    "tools": [
+      "PostgreSQL",
+      "Flask",
+      "MySQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "REST",
+      "ORM",
+      "CRUD"
+    ],
+    "resume_match_threshold": 0.34,
+    "jd_keywords_match": [
+      "REST",
+      "CRUD"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Ci/Cd Gcp",
+    "description": "A Beginner level devops project focusing on GCP, Ansible, CI/CD.",
+    "domain": "DevOps",
+    "tools": [
+      "Docker",
+      "AWS",
+      "Git"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "GCP",
+      "Ansible",
+      "CI/CD"
+    ],
+    "resume_match_threshold": 0.31,
+    "jd_keywords_match": [
+      "Ansible",
+      "CI/CD"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Ui/Ux Javascript",
+    "description": "A Intermediate level frontend development project focusing on UI/UX, Redux, JavaScript.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Bootstrap",
+      "JavaScript",
+      "CSS"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "UI/UX",
+      "Redux",
+      "JavaScript"
+    ],
+    "resume_match_threshold": 0.3,
+    "jd_keywords_match": [
+      "JavaScript",
+      "Redux"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Serverless Gcp",
+    "description": "A Intermediate level cloud computing project focusing on GCP, serverless, load balancing.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "Azure",
+      "Lambda",
+      "AWS"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "GCP",
+      "serverless",
+      "load balancing"
+    ],
+    "resume_match_threshold": 0.51,
+    "jd_keywords_match": [
+      "load balancing",
+      "serverless"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Cross-Platform Push Notifications",
+    "description": "A Beginner level mobile app development project focusing on push notifications, cross-platform, Flutter.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "Flutter",
+      "Android Studio"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "push notifications",
+      "cross-platform",
+      "Flutter"
+    ],
+    "resume_match_threshold": 0.49,
+    "jd_keywords_match": [
+      "Flutter",
+      "cross-platform"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Metamask Web3",
+    "description": "A Intermediate level blockchain project focusing on Metamask, Ethereum, web3.",
+    "domain": "Blockchain",
+    "tools": [
+      "Solidity",
+      "Truffle",
+      "Ethereum"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Metamask",
+      "Ethereum",
+      "web3"
+    ],
+    "resume_match_threshold": 0.32,
+    "jd_keywords_match": [
+      "Metamask",
+      "Ethereum"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Css Javascript",
+    "description": "A Beginner level frontend development project focusing on responsive design, JavaScript, CSS.",
+    "domain": "Frontend Development",
+    "tools": [
+      "HTML",
+      "JavaScript",
+      "React"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "responsive design",
+      "JavaScript",
+      "CSS"
+    ],
+    "resume_match_threshold": 0.49,
+    "jd_keywords_match": [
+      "JavaScript",
+      "CSS"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Machine Learning Scikit-Learn",
+    "description": "A Intermediate level data science project focusing on machine learning, EDA, scikit-learn.",
+    "domain": "Data Science",
+    "tools": [
+      "XGBoost",
+      "Seaborn",
+      "NLTK"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "machine learning",
+      "EDA",
+      "scikit-learn"
+    ],
+    "resume_match_threshold": 0.47,
+    "jd_keywords_match": [
+      "machine learning",
+      "EDA"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Ec2 Load Balancing",
+    "description": "A Advanced level cloud computing project focusing on load balancing, EC2, cloud functions.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "AWS",
+      "Lambda",
+      "Azure"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "load balancing",
+      "EC2",
+      "cloud functions"
+    ],
+    "resume_match_threshold": 0.47,
+    "jd_keywords_match": [
+      "cloud functions",
+      "load balancing"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Vulnerability Encryption",
+    "description": "A Advanced level cybersecurity project focusing on encryption, hashing, vulnerability.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Wireshark",
+      "Kali Linux",
+      "Nmap"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "encryption",
+      "hashing",
+      "vulnerability"
+    ],
+    "resume_match_threshold": 0.55,
+    "jd_keywords_match": [
+      "vulnerability",
+      "hashing"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Scikit-Learn Pandas",
+    "description": "A Beginner level data science project focusing on EDA, scikit-learn, pandas.",
+    "domain": "Data Science",
+    "tools": [
+      "Python",
+      "Matplotlib",
+      "XGBoost"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "EDA",
+      "scikit-learn",
+      "pandas"
+    ],
+    "resume_match_threshold": 0.46,
+    "jd_keywords_match": [
+      "EDA",
+      "pandas"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Network Security Penetration Testing",
+    "description": "A Beginner level cybersecurity project focusing on penetration testing, network security, encryption.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Metasploit",
+      "Wireshark",
+      "Kali Linux"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "penetration testing",
+      "network security",
+      "encryption"
+    ],
+    "resume_match_threshold": 0.56,
+    "jd_keywords_match": [
+      "encryption",
+      "network security"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Postgresql Rest",
+    "description": "A Intermediate level backend development project focusing on CRUD, REST, PostgreSQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Flask",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "CRUD",
+      "REST",
+      "PostgreSQL"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "PostgreSQL",
+      "CRUD"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - React Native Push Notifications",
+    "description": "A Advanced level mobile app development project focusing on Firebase, push notifications, React Native.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "React Native",
+      "Android Studio"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Firebase",
+      "push notifications",
+      "React Native"
+    ],
+    "resume_match_threshold": 0.38,
+    "jd_keywords_match": [
+      "React Native",
+      "push notifications"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Tailwind Redux",
+    "description": "A Beginner level frontend development project focusing on Tailwind, Redux, responsive design.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Bootstrap",
+      "Tailwind",
+      "React"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Tailwind",
+      "Redux",
+      "responsive design"
+    ],
+    "resume_match_threshold": 0.58,
+    "jd_keywords_match": [
+      "Redux",
+      "Tailwind"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Apis Flask",
+    "description": "A Beginner level backend development project focusing on APIs, ORM, Flask.",
+    "domain": "Backend Development",
+    "tools": [
+      "Flask",
+      "Python",
+      "MySQL"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "APIs",
+      "ORM",
+      "Flask"
+    ],
+    "resume_match_threshold": 0.51,
+    "jd_keywords_match": [
+      "ORM",
+      "Flask"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Firebase Ui/Ux",
+    "description": "A Advanced level mobile app development project focusing on Firebase, Android, UI/UX.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "React Native",
+      "Android Studio",
+      "Firebase"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Firebase",
+      "Android",
+      "UI/UX"
+    ],
+    "resume_match_threshold": 0.39,
+    "jd_keywords_match": [
+      "Android",
+      "Firebase"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Flask Crud",
+    "description": "A Intermediate level backend development project focusing on authentication, CRUD, Flask.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "authentication",
+      "CRUD",
+      "Flask"
+    ],
+    "resume_match_threshold": 0.43,
+    "jd_keywords_match": [
+      "CRUD",
+      "authentication"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Django Apis",
+    "description": "A Beginner level backend development project focusing on Django, Flask, APIs.",
+    "domain": "Backend Development",
+    "tools": [
+      "PostgreSQL",
+      "Python",
+      "MySQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Django",
+      "Flask",
+      "APIs"
+    ],
+    "resume_match_threshold": 0.4,
+    "jd_keywords_match": [
+      "APIs",
+      "Flask"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Scikit-Learn Eda",
+    "description": "A Advanced level data science project focusing on scikit-learn, NLP, EDA.",
+    "domain": "Data Science",
+    "tools": [
+      "scikit-learn",
+      "NLTK",
+      "Python"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "scikit-learn",
+      "NLP",
+      "EDA"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "EDA",
+      "scikit-learn"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Flutter Ui/Ux",
+    "description": "A Advanced level mobile app development project focusing on UI/UX, push notifications, Flutter.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Android Studio",
+      "Flutter",
+      "React Native"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "UI/UX",
+      "push notifications",
+      "Flutter"
+    ],
+    "resume_match_threshold": 0.51,
+    "jd_keywords_match": [
+      "UI/UX",
+      "Flutter"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Postgresql Django",
+    "description": "A Intermediate level backend development project focusing on Django, PostgreSQL, SQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "MySQL",
+      "PostgreSQL",
+      "Django"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Django",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "resume_match_threshold": 0.47,
+    "jd_keywords_match": [
+      "PostgreSQL",
+      "SQL"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Html Redux",
+    "description": "A Intermediate level frontend development project focusing on Redux, HTML, React.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Tailwind",
+      "React",
+      "JavaScript"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Redux",
+      "HTML",
+      "React"
+    ],
+    "resume_match_threshold": 0.47,
+    "jd_keywords_match": [
+      "Redux",
+      "React"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Clustering Nlp",
+    "description": "A Beginner level data science project focusing on NLP, clustering, EDA.",
+    "domain": "Data Science",
+    "tools": [
+      "scikit-learn",
+      "XGBoost",
+      "Seaborn"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "NLP",
+      "clustering",
+      "EDA"
+    ],
+    "resume_match_threshold": 0.6,
+    "jd_keywords_match": [
+      "EDA",
+      "clustering"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Load Balancing Azure",
+    "description": "A Advanced level cloud computing project focusing on load balancing, Azure, GCP.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "Lambda",
+      "EC2",
+      "Azure"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "load balancing",
+      "Azure",
+      "GCP"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "load balancing",
+      "GCP"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Javascript Tailwind",
+    "description": "A Advanced level frontend development project focusing on Tailwind, JavaScript, responsive design.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Tailwind",
+      "JavaScript",
+      "CSS"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Tailwind",
+      "JavaScript",
+      "responsive design"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "responsive design",
+      "JavaScript"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Dapps Wallets",
+    "description": "A Advanced level blockchain project focusing on wallets, dApps, Solidity.",
+    "domain": "Blockchain",
+    "tools": [
+      "Truffle",
+      "Ethereum",
+      "Web3.js"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "wallets",
+      "dApps",
+      "Solidity"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "wallets",
+      "dApps"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Responsive Design Redux",
+    "description": "A Intermediate level frontend development project focusing on responsive design, DOM manipulation, Redux.",
+    "domain": "Frontend Development",
+    "tools": [
+      "JavaScript",
+      "HTML",
+      "React"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "responsive design",
+      "DOM manipulation",
+      "Redux"
+    ],
+    "resume_match_threshold": 0.31,
+    "jd_keywords_match": [
+      "responsive design",
+      "DOM manipulation"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Responsive Design Css",
+    "description": "A Beginner level frontend development project focusing on CSS, DOM manipulation, responsive design.",
+    "domain": "Frontend Development",
+    "tools": [
+      "JavaScript",
+      "Tailwind",
+      "React"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "CSS",
+      "DOM manipulation",
+      "responsive design"
+    ],
+    "resume_match_threshold": 0.59,
+    "jd_keywords_match": [
+      "DOM manipulation",
+      "CSS"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Flask Sql",
+    "description": "A Intermediate level backend development project focusing on ORM, Flask, SQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Flask",
+      "Python",
+      "PostgreSQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "ORM",
+      "Flask",
+      "SQL"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "Flask",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Css Tailwind",
+    "description": "A Intermediate level frontend development project focusing on CSS, Tailwind, React.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Tailwind",
+      "React",
+      "Bootstrap"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "CSS",
+      "Tailwind",
+      "React"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "Tailwind",
+      "CSS"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Vulnerability Penetration Testing",
+    "description": "A Advanced level cybersecurity project focusing on vulnerability, penetration testing, Nmap.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Metasploit",
+      "Nmap",
+      "Wireshark"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "vulnerability",
+      "penetration testing",
+      "Nmap"
+    ],
+    "resume_match_threshold": 0.56,
+    "jd_keywords_match": [
+      "vulnerability",
+      "penetration testing"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Hashing Nmap",
+    "description": "A Beginner level cybersecurity project focusing on hashing, Nmap, network security.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Nmap",
+      "Metasploit",
+      "Kali Linux"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "hashing",
+      "Nmap",
+      "network security"
+    ],
+    "resume_match_threshold": 0.38,
+    "jd_keywords_match": [
+      "hashing",
+      "network security"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Load Balancing Cloud Storage",
+    "description": "A Advanced level cloud computing project focusing on cloud storage, load balancing, cloud functions.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "Azure",
+      "AWS",
+      "EC2"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "cloud storage",
+      "load balancing",
+      "cloud functions"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "load balancing",
+      "cloud storage"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Android Flutter",
+    "description": "A Advanced level mobile app development project focusing on iOS, Flutter, Android.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "React Native",
+      "Android Studio"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "iOS",
+      "Flutter",
+      "Android"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "Android",
+      "Flutter"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Gcp Docker",
+    "description": "A Beginner level devops project focusing on Jenkins, GCP, Docker.",
+    "domain": "DevOps",
+    "tools": [
+      "Docker",
+      "Jenkins",
+      "Terraform"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Jenkins",
+      "GCP",
+      "Docker"
+    ],
+    "resume_match_threshold": 0.31,
+    "jd_keywords_match": [
+      "Docker",
+      "GCP"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Gcp Jenkins",
+    "description": "A Intermediate level devops project focusing on GCP, Jenkins, GitHub Actions.",
+    "domain": "DevOps",
+    "tools": [
+      "AWS",
+      "Terraform",
+      "Git"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "GCP",
+      "Jenkins",
+      "GitHub Actions"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "GitHub Actions",
+      "Jenkins"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Ansible Gcp",
+    "description": "A Intermediate level devops project focusing on GCP, CI/CD, Ansible.",
+    "domain": "DevOps",
+    "tools": [
+      "Docker",
+      "Kubernetes",
+      "Git"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "GCP",
+      "CI/CD",
+      "Ansible"
+    ],
+    "resume_match_threshold": 0.47,
+    "jd_keywords_match": [
+      "GCP",
+      "Ansible"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Nmap Malware",
+    "description": "A Beginner level cybersecurity project focusing on penetration testing, Nmap, malware.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Kali Linux",
+      "Metasploit",
+      "Nmap"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "penetration testing",
+      "Nmap",
+      "malware"
+    ],
+    "resume_match_threshold": 0.59,
+    "jd_keywords_match": [
+      "penetration testing",
+      "malware"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Wallets Blockchain",
+    "description": "A Beginner level blockchain project focusing on wallets, Solidity, blockchain.",
+    "domain": "Blockchain",
+    "tools": [
+      "Solidity",
+      "Web3.js",
+      "Ethereum"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "wallets",
+      "Solidity",
+      "blockchain"
+    ],
+    "resume_match_threshold": 0.54,
+    "jd_keywords_match": [
+      "Solidity",
+      "wallets"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Smart Contracts Dapps",
+    "description": "A Beginner level blockchain project focusing on dApps, Ethereum, smart contracts.",
+    "domain": "Blockchain",
+    "tools": [
+      "Ethereum",
+      "Web3.js",
+      "Solidity"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "dApps",
+      "Ethereum",
+      "smart contracts"
+    ],
+    "resume_match_threshold": 0.59,
+    "jd_keywords_match": [
+      "Ethereum",
+      "smart contracts"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - React Native Cross-Platform",
+    "description": "A Advanced level mobile app development project focusing on push notifications, cross-platform, React Native.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Flutter",
+      "Android Studio",
+      "Firebase"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "push notifications",
+      "cross-platform",
+      "React Native"
+    ],
+    "resume_match_threshold": 0.56,
+    "jd_keywords_match": [
+      "push notifications",
+      "cross-platform"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Gcp Load Balancing",
+    "description": "A Advanced level cloud computing project focusing on GCP, serverless, load balancing.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "Azure",
+      "GCP",
+      "AWS"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "GCP",
+      "serverless",
+      "load balancing"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "serverless",
+      "load balancing"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Pandas Matplotlib",
+    "description": "A Beginner level data science project focusing on EDA, matplotlib, pandas.",
+    "domain": "Data Science",
+    "tools": [
+      "Matplotlib",
+      "XGBoost",
+      "Pandas"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "EDA",
+      "matplotlib",
+      "pandas"
+    ],
+    "resume_match_threshold": 0.38,
+    "jd_keywords_match": [
+      "pandas",
+      "matplotlib"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Hashing Nmap",
+    "description": "A Advanced level cybersecurity project focusing on Nmap, hashing, firewall.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Wireshark",
+      "Kali Linux",
+      "Nmap"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Nmap",
+      "hashing",
+      "firewall"
+    ],
+    "resume_match_threshold": 0.39,
+    "jd_keywords_match": [
+      "Nmap",
+      "hashing"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Rest Orm",
+    "description": "A Intermediate level backend development project focusing on ORM, CRUD, REST.",
+    "domain": "Backend Development",
+    "tools": [
+      "PostgreSQL",
+      "MySQL",
+      "Flask"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "ORM",
+      "CRUD",
+      "REST"
+    ],
+    "resume_match_threshold": 0.43,
+    "jd_keywords_match": [
+      "ORM",
+      "REST"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Kubernetes Ci/Cd",
+    "description": "A Advanced level devops project focusing on GitHub Actions, Kubernetes, CI/CD.",
+    "domain": "DevOps",
+    "tools": [
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "GitHub Actions",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "resume_match_threshold": 0.34,
+    "jd_keywords_match": [
+      "GitHub Actions",
+      "CI/CD"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Eda Numpy",
+    "description": "A Beginner level data science project focusing on EDA, regression, numpy.",
+    "domain": "Data Science",
+    "tools": [
+      "Matplotlib",
+      "Pandas",
+      "NLTK"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "EDA",
+      "regression",
+      "numpy"
+    ],
+    "resume_match_threshold": 0.6,
+    "jd_keywords_match": [
+      "regression",
+      "EDA"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Hashing Encryption",
+    "description": "A Intermediate level cybersecurity project focusing on hashing, encryption, vulnerability.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Wireshark",
+      "Kali Linux",
+      "Metasploit"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "hashing",
+      "encryption",
+      "vulnerability"
+    ],
+    "resume_match_threshold": 0.42,
+    "jd_keywords_match": [
+      "vulnerability",
+      "encryption"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Crypto Blockchain",
+    "description": "A Advanced level blockchain project focusing on crypto, Ethereum, blockchain.",
+    "domain": "Blockchain",
+    "tools": [
+      "Web3.js",
+      "Truffle",
+      "Ethereum"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "crypto",
+      "Ethereum",
+      "blockchain"
+    ],
+    "resume_match_threshold": 0.46,
+    "jd_keywords_match": [
+      "Ethereum",
+      "blockchain"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Orm Rest",
+    "description": "A Intermediate level backend development project focusing on ORM, CRUD, REST.",
+    "domain": "Backend Development",
+    "tools": [
+      "MySQL",
+      "Python",
+      "Flask"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "ORM",
+      "CRUD",
+      "REST"
+    ],
+    "resume_match_threshold": 0.58,
+    "jd_keywords_match": [
+      "CRUD",
+      "REST"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Azure Ec2",
+    "description": "A Advanced level cloud computing project focusing on S3, EC2, Azure.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "GCP",
+      "AWS",
+      "S3"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "S3",
+      "EC2",
+      "Azure"
+    ],
+    "resume_match_threshold": 0.5,
+    "jd_keywords_match": [
+      "S3",
+      "EC2"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Redux Ui/Ux",
+    "description": "A Intermediate level frontend development project focusing on Redux, DOM manipulation, UI/UX.",
+    "domain": "Frontend Development",
+    "tools": [
+      "CSS",
+      "React",
+      "Bootstrap"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Redux",
+      "DOM manipulation",
+      "UI/UX"
+    ],
+    "resume_match_threshold": 0.45,
+    "jd_keywords_match": [
+      "UI/UX",
+      "Redux"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Gcp Aws",
+    "description": "A Intermediate level devops project focusing on AWS, GCP, Docker.",
+    "domain": "DevOps",
+    "tools": [
+      "Terraform",
+      "AWS",
+      "Kubernetes"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "AWS",
+      "GCP",
+      "Docker"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "Docker",
+      "GCP"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Ansible Terraform",
+    "description": "A Intermediate level devops project focusing on Terraform, Ansible, GCP.",
+    "domain": "DevOps",
+    "tools": [
+      "Jenkins",
+      "AWS",
+      "Kubernetes"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Terraform",
+      "Ansible",
+      "GCP"
+    ],
+    "resume_match_threshold": 0.58,
+    "jd_keywords_match": [
+      "GCP",
+      "Ansible"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Html Responsive Design",
+    "description": "A Beginner level frontend development project focusing on HTML, React, responsive design.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Tailwind",
+      "Bootstrap",
+      "CSS"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "HTML",
+      "React",
+      "responsive design"
+    ],
+    "resume_match_threshold": 0.53,
+    "jd_keywords_match": [
+      "HTML",
+      "responsive design"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Apis Orm",
+    "description": "A Advanced level backend development project focusing on CRUD, ORM, APIs.",
+    "domain": "Backend Development",
+    "tools": [
+      "MySQL",
+      "Django",
+      "Flask"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "CRUD",
+      "ORM",
+      "APIs"
+    ],
+    "resume_match_threshold": 0.43,
+    "jd_keywords_match": [
+      "APIs",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Kubernetes Docker",
+    "description": "A Beginner level devops project focusing on Docker, CI/CD, Kubernetes.",
+    "domain": "DevOps",
+    "tools": [
+      "Git",
+      "Docker",
+      "Jenkins"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "Docker",
+      "CI/CD",
+      "Kubernetes"
+    ],
+    "resume_match_threshold": 0.49,
+    "jd_keywords_match": [
+      "Kubernetes",
+      "CI/CD"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Machine Learning Eda",
+    "description": "A Beginner level data science project focusing on classification, machine learning, EDA.",
+    "domain": "Data Science",
+    "tools": [
+      "scikit-learn",
+      "Seaborn",
+      "Matplotlib"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "classification",
+      "machine learning",
+      "EDA"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "EDA",
+      "classification"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Serverless Cloud Functions",
+    "description": "A Intermediate level cloud computing project focusing on cloud functions, serverless, load balancing.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "Azure",
+      "Lambda",
+      "EC2"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "cloud functions",
+      "serverless",
+      "load balancing"
+    ],
+    "resume_match_threshold": 0.43,
+    "jd_keywords_match": [
+      "cloud functions",
+      "serverless"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Orm Apis",
+    "description": "A Intermediate level backend development project focusing on ORM, APIs, REST.",
+    "domain": "Backend Development",
+    "tools": [
+      "PostgreSQL",
+      "Flask",
+      "Python"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "ORM",
+      "APIs",
+      "REST"
+    ],
+    "resume_match_threshold": 0.4,
+    "jd_keywords_match": [
+      "REST",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Django Authentication",
+    "description": "A Advanced level backend development project focusing on authentication, PostgreSQL, Django.",
+    "domain": "Backend Development",
+    "tools": [
+      "PostgreSQL",
+      "Django",
+      "Python"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "authentication",
+      "PostgreSQL",
+      "Django"
+    ],
+    "resume_match_threshold": 0.45,
+    "jd_keywords_match": [
+      "PostgreSQL",
+      "authentication"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Dom Manipulation Redux",
+    "description": "A Intermediate level frontend development project focusing on JavaScript, Redux, DOM manipulation.",
+    "domain": "Frontend Development",
+    "tools": [
+      "Bootstrap",
+      "HTML",
+      "React"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "JavaScript",
+      "Redux",
+      "DOM manipulation"
+    ],
+    "resume_match_threshold": 0.58,
+    "jd_keywords_match": [
+      "JavaScript",
+      "DOM manipulation"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Github Actions Gcp",
+    "description": "A Advanced level devops project focusing on GitHub Actions, GCP, Jenkins.",
+    "domain": "DevOps",
+    "tools": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "GitHub Actions",
+      "GCP",
+      "Jenkins"
+    ],
+    "resume_match_threshold": 0.55,
+    "jd_keywords_match": [
+      "GitHub Actions",
+      "GCP"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Gcp Ansible",
+    "description": "A Beginner level devops project focusing on CI/CD, Ansible, GCP.",
+    "domain": "DevOps",
+    "tools": [
+      "Jenkins",
+      "AWS",
+      "Terraform"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "CI/CD",
+      "Ansible",
+      "GCP"
+    ],
+    "resume_match_threshold": 0.43,
+    "jd_keywords_match": [
+      "GCP",
+      "Ansible"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Android Flutter",
+    "description": "A Advanced level mobile app development project focusing on React Native, Flutter, Android.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Android Studio",
+      "Firebase",
+      "Flutter"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "React Native",
+      "Flutter",
+      "Android"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "React Native",
+      "Android"
+    ]
+  },
+  {
+    "project_title": "Blockchain Project - Metamask Solidity",
+    "description": "A Beginner level blockchain project focusing on Solidity, wallets, Metamask.",
+    "domain": "Blockchain",
+    "tools": [
+      "Truffle",
+      "Ethereum",
+      "Web3.js"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Solidity",
+      "wallets",
+      "Metamask"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "wallets",
+      "Metamask"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Machine Learning Scikit-Learn",
+    "description": "A Beginner level data science project focusing on machine learning, scikit-learn, numpy.",
+    "domain": "Data Science",
+    "tools": [
+      "Pandas",
+      "Matplotlib",
+      "scikit-learn"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "machine learning",
+      "scikit-learn",
+      "numpy"
+    ],
+    "resume_match_threshold": 0.55,
+    "jd_keywords_match": [
+      "machine learning",
+      "scikit-learn"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Responsive Design Tailwind",
+    "description": "A Advanced level frontend development project focusing on CSS, responsive design, Tailwind.",
+    "domain": "Frontend Development",
+    "tools": [
+      "JavaScript",
+      "React",
+      "CSS"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "CSS",
+      "responsive design",
+      "Tailwind"
+    ],
+    "resume_match_threshold": 0.36,
+    "jd_keywords_match": [
+      "Tailwind",
+      "responsive design"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Html React",
+    "description": "A Intermediate level frontend development project focusing on React, HTML, responsive design.",
+    "domain": "Frontend Development",
+    "tools": [
+      "CSS",
+      "React",
+      "JavaScript"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "React",
+      "HTML",
+      "responsive design"
+    ],
+    "resume_match_threshold": 0.44,
+    "jd_keywords_match": [
+      "responsive design",
+      "HTML"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Hashing Encryption",
+    "description": "A Beginner level cybersecurity project focusing on encryption, hashing, penetration testing.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Kali Linux",
+      "Metasploit",
+      "Nmap"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "encryption",
+      "hashing",
+      "penetration testing"
+    ],
+    "resume_match_threshold": 0.31,
+    "jd_keywords_match": [
+      "penetration testing",
+      "encryption"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Crud Apis",
+    "description": "A Intermediate level backend development project focusing on APIs, Flask, CRUD.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "APIs",
+      "Flask",
+      "CRUD"
+    ],
+    "resume_match_threshold": 0.59,
+    "jd_keywords_match": [
+      "Flask",
+      "CRUD"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - Css Html",
+    "description": "A Intermediate level frontend development project focusing on Tailwind, HTML, CSS.",
+    "domain": "Frontend Development",
+    "tools": [
+      "HTML",
+      "Bootstrap",
+      "CSS"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "Tailwind",
+      "HTML",
+      "CSS"
+    ],
+    "resume_match_threshold": 0.37,
+    "jd_keywords_match": [
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "project_title": "Cybersecurity Project - Malware Nmap",
+    "description": "A Intermediate level cybersecurity project focusing on network security, Nmap, malware.",
+    "domain": "Cybersecurity",
+    "tools": [
+      "Nmap",
+      "Wireshark",
+      "Metasploit"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "network security",
+      "Nmap",
+      "malware"
+    ],
+    "resume_match_threshold": 0.31,
+    "jd_keywords_match": [
+      "network security",
+      "malware"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Scikit-Learn Matplotlib",
+    "description": "A Intermediate level data science project focusing on regression, matplotlib, scikit-learn.",
+    "domain": "Data Science",
+    "tools": [
+      "Seaborn",
+      "scikit-learn",
+      "Python"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "regression",
+      "matplotlib",
+      "scikit-learn"
+    ],
+    "resume_match_threshold": 0.58,
+    "jd_keywords_match": [
+      "matplotlib",
+      "regression"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Flask Postgresql",
+    "description": "A Beginner level backend development project focusing on ORM, Flask, PostgreSQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Flask",
+      "Python",
+      "PostgreSQL"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "ORM",
+      "Flask",
+      "PostgreSQL"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "PostgreSQL",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Clustering Nlp",
+    "description": "A Beginner level data science project focusing on NLP, classification, clustering.",
+    "domain": "Data Science",
+    "tools": [
+      "Matplotlib",
+      "XGBoost",
+      "scikit-learn"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "NLP",
+      "classification",
+      "clustering"
+    ],
+    "resume_match_threshold": 0.58,
+    "jd_keywords_match": [
+      "classification",
+      "clustering"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Regression Classification",
+    "description": "A Beginner level data science project focusing on scikit-learn, classification, regression.",
+    "domain": "Data Science",
+    "tools": [
+      "XGBoost",
+      "Matplotlib",
+      "Python"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "scikit-learn",
+      "classification",
+      "regression"
+    ],
+    "resume_match_threshold": 0.44,
+    "jd_keywords_match": [
+      "classification",
+      "scikit-learn"
+    ]
+  },
+  {
+    "project_title": "Frontend Development Project - React Dom Manipulation",
+    "description": "A Intermediate level frontend development project focusing on React, DOM manipulation, HTML.",
+    "domain": "Frontend Development",
+    "tools": [
+      "CSS",
+      "JavaScript",
+      "Bootstrap"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "React",
+      "DOM manipulation",
+      "HTML"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "React",
+      "HTML"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Android Flutter",
+    "description": "A Beginner level mobile app development project focusing on push notifications, Android, Flutter.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Firebase",
+      "Flutter",
+      "Android Studio"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "push notifications",
+      "Android",
+      "Flutter"
+    ],
+    "resume_match_threshold": 0.51,
+    "jd_keywords_match": [
+      "Flutter",
+      "push notifications"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Kubernetes Jenkins",
+    "description": "A Intermediate level devops project focusing on Jenkins, GCP, Kubernetes.",
+    "domain": "DevOps",
+    "tools": [
+      "Terraform",
+      "Jenkins",
+      "Docker"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "Jenkins",
+      "GCP",
+      "Kubernetes"
+    ],
+    "resume_match_threshold": 0.48,
+    "jd_keywords_match": [
+      "Kubernetes",
+      "GCP"
+    ]
+  },
+  {
+    "project_title": "DevOps Project - Terraform Gcp",
+    "description": "A Intermediate level devops project focusing on GCP, Docker, Terraform.",
+    "domain": "DevOps",
+    "tools": [
+      "Jenkins",
+      "Kubernetes",
+      "Docker"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "GCP",
+      "Docker",
+      "Terraform"
+    ],
+    "resume_match_threshold": 0.41,
+    "jd_keywords_match": [
+      "GCP",
+      "Terraform"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Orm Authentication",
+    "description": "A Beginner level backend development project focusing on APIs, authentication, ORM.",
+    "domain": "Backend Development",
+    "tools": [
+      "MySQL",
+      "Python",
+      "Flask"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "APIs",
+      "authentication",
+      "ORM"
+    ],
+    "resume_match_threshold": 0.35,
+    "jd_keywords_match": [
+      "APIs",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Apis Crud",
+    "description": "A Intermediate level backend development project focusing on PostgreSQL, CRUD, APIs.",
+    "domain": "Backend Development",
+    "tools": [
+      "Python",
+      "Django",
+      "Flask"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "PostgreSQL",
+      "CRUD",
+      "APIs"
+    ],
+    "resume_match_threshold": 0.4,
+    "jd_keywords_match": [
+      "APIs",
+      "CRUD"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Nlp Classification",
+    "description": "A Intermediate level data science project focusing on matplotlib, classification, NLP.",
+    "domain": "Data Science",
+    "tools": [
+      "NLTK",
+      "XGBoost",
+      "Seaborn"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "matplotlib",
+      "classification",
+      "NLP"
+    ],
+    "resume_match_threshold": 0.4,
+    "jd_keywords_match": [
+      "matplotlib",
+      "NLP"
+    ]
+  },
+  {
+    "project_title": "Cloud Computing Project - Cloud Functions Serverless",
+    "description": "A Beginner level cloud computing project focusing on serverless, cloud storage, cloud functions.",
+    "domain": "Cloud Computing",
+    "tools": [
+      "Azure",
+      "Lambda",
+      "GCP"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "serverless",
+      "cloud storage",
+      "cloud functions"
+    ],
+    "resume_match_threshold": 0.46,
+    "jd_keywords_match": [
+      "serverless",
+      "cloud storage"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Numpy Eda",
+    "description": "A Beginner level data science project focusing on EDA, numpy, NLP.",
+    "domain": "Data Science",
+    "tools": [
+      "Seaborn",
+      "scikit-learn",
+      "Matplotlib"
+    ],
+    "level": "Advanced",
+    "keywords": [
+      "EDA",
+      "numpy",
+      "NLP"
+    ],
+    "resume_match_threshold": 0.3,
+    "jd_keywords_match": [
+      "numpy",
+      "NLP"
+    ]
+  },
+  {
+    "project_title": "Data Science Project - Scikit-Learn Regression",
+    "description": "A Beginner level data science project focusing on regression, pandas, scikit-learn.",
+    "domain": "Data Science",
+    "tools": [
+      "Python",
+      "scikit-learn",
+      "NLTK"
+    ],
+    "level": "Beginner",
+    "keywords": [
+      "regression",
+      "pandas",
+      "scikit-learn"
+    ],
+    "resume_match_threshold": 0.53,
+    "jd_keywords_match": [
+      "regression",
+      "scikit-learn"
+    ]
+  },
+  {
+    "project_title": "Backend Development Project - Orm Sql",
+    "description": "A Beginner level backend development project focusing on ORM, CRUD, SQL.",
+    "domain": "Backend Development",
+    "tools": [
+      "Django",
+      "Flask",
+      "Python"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "ORM",
+      "CRUD",
+      "SQL"
+    ],
+    "resume_match_threshold": 0.5,
+    "jd_keywords_match": [
+      "CRUD",
+      "ORM"
+    ]
+  },
+  {
+    "project_title": "Mobile App Development Project - Ui/Ux React Native",
+    "description": "A Advanced level mobile app development project focusing on iOS, React Native, UI/UX.",
+    "domain": "Mobile App Development",
+    "tools": [
+      "Android Studio",
+      "React Native",
+      "Firebase"
+    ],
+    "level": "Intermediate",
+    "keywords": [
+      "iOS",
+      "React Native",
+      "UI/UX"
+    ],
+    "resume_match_threshold": 0.38,
+    "jd_keywords_match": [
+      "UI/UX",
+      "iOS"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# Streamlit log or cache
+.streamlit/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Local dev tools or settings
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Project artifacts
+*.sqlite
+*.db
+
+# Uploads
+resume.pdf
+job_description.txt
+*.docx
+
+
+# Any secret keys or credentials (make sure to use env vars or .env)
+.env
+.env.*
