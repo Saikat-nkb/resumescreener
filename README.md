@@ -1,6 +1,6 @@
 # 🚀 Resume Screener- Resume & JD Matchmaking App
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=render)][(https://resumescreener-k9wbwbpjtbxqzs2qhdsbqc.streamlit.app/)]
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=render)](https://resumescreener-k9wbwbpjtbxqzs2qhdsbqc.streamlit.app/)
 [![Built with Python](https://img.shields.io/badge/Built%20with-Python-blue.svg?style=for-the-badge&logo=python)](#tech-stack)
 
 Resume screener is a smart, interactive web app that helps candidates compare their **Resume** against any **Job Description (JD)** and discover:
