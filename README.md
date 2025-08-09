@@ -108,10 +108,10 @@ The app is deployed on Render at:
 ## 📸 Screenshots
 
 ### 1️⃣ Login Page
-![Login Page](assets\ss1.png)
+![Login Page](assets/ss1.png)
 
 ### 2️⃣ Resume & JD Upload
-![Resume & JD Upload](assets\ss2.png)
+![Resume & JD Upload](assets/ss2.png)
 
 ### 3️⃣ Match Results
-![Match Results](assets\ss3.png)
+![Match Results](assets/ss3.png)
